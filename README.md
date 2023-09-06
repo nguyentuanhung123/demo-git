@@ -74,4 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Không cần origin vì nhánh mặc định nên git tự hiểu
 
 
+## Git log giúp ta xem những commit gần đây
+
 

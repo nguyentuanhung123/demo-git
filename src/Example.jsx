@@ -3,6 +3,8 @@ import React from "react";
 const Example = () => {
     return (
         <div class="text-3xl font-bold underline">Hung</div>
+        <div class="text-3xl font-bold underline">Tài</div>
+        <div class="text-3xl font-bold underline">Thắng</div>
     )
 }
 

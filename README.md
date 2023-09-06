@@ -76,4 +76,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Git log giúp ta xem những commit gần đây
 
+## Git log --oneline giúp chúng ta có thể xem ngắn gọn lại những commit gần đây
+
 

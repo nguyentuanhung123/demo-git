@@ -76,8 +76,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## Không cần origin thì cũng có thể pull từ nhánh default
 
 
-## Git log giúp ta xem những commit gần đây
+## Git log giúp ta xem những commit gần đây 
 
-## Git log --oneline giúp chúng ta có thể xem ngắn gọn lại những commit gần đây
+## Git log --oneline giúp chúng ta có thể xem được ngắn gọn lại những commit gần đây (mà không có những mã commit dài dòng như ở trên)
 
 

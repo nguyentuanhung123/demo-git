@@ -73,6 +73,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Không cần origin vì nhánh mặc định nên git tự hiểu
 
+## Không cần origin thì cũng có thể pull từ nhánh repo
+
 
 ## Git log giúp ta xem những commit gần đây
 
